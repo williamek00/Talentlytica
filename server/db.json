@@ -1,0 +1,116 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "mahasiswa_1": {
+        "aspek_penilaian_1": "1",
+        "aspek_penilaian_2": "5",
+        "aspek_penilaian_3": "2",
+        "aspek_penilaian_4": "5"
+      },
+      "mahasiswa_2": {
+        "aspek_penilaian_1": "",
+        "aspek_penilaian_2": "",
+        "aspek_penilaian_3": "",
+        "aspek_penilaian_4": ""
+      },
+      "mahasiswa_3": {
+        "aspek_penilaian_1": "",
+        "aspek_penilaian_2": "",
+        "aspek_penilaian_3": "",
+        "aspek_penilaian_4": ""
+      },
+      "mahasiswa_4": {
+        "aspek_penilaian_1": "",
+        "aspek_penilaian_2": "",
+        "aspek_penilaian_3": "",
+        "aspek_penilaian_4": ""
+      },
+      "mahasiswa_5": {
+        "aspek_penilaian_1": "",
+        "aspek_penilaian_2": "",
+        "aspek_penilaian_3": "",
+        "aspek_penilaian_4": ""
+      },
+      "id": 2
+    },
+    {
+      "mahasiswa_1": {
+        "aspek_penilaian_1": "4",
+        "aspek_penilaian_2": "2",
+        "aspek_penilaian_3": "3",
+        "aspek_penilaian_4": "3"
+      },
+      "mahasiswa_2": {
+        "aspek_penilaian_1": "",
+        "aspek_penilaian_2": "",
+        "aspek_penilaian_3": "",
+        "aspek_penilaian_4": ""
+      },
+      "mahasiswa_3": {
+        "aspek_penilaian_1": "",
+        "aspek_penilaian_2": "",
+        "aspek_penilaian_3": "",
+        "aspek_penilaian_4": ""
+      },
+      "mahasiswa_4": {
+        "aspek_penilaian_1": "",
+        "aspek_penilaian_2": "",
+        "aspek_penilaian_3": "",
+        "aspek_penilaian_4": ""
+      },
+      "mahasiswa_5": {
+        "aspek_penilaian_1": "",
+        "aspek_penilaian_2": "",
+        "aspek_penilaian_3": "",
+        "aspek_penilaian_4": ""
+      },
+      "id": 3
+    },
+    {
+      "aspek_penilaian_1": {
+        "mahasiswa_1": "10",
+        "mahasiswa_2": "",
+        "mahasiswa_3": "",
+        "mahasiswa_4": "",
+        "mahasiswa_5": ""
+      },
+      "aspek_penilaian_2": {
+        "mahasiswa_1": "1",
+        "mahasiswa_2": "",
+        "mahasiswa_3": "",
+        "mahasiswa_4": "",
+        "mahasiswa_5": ""
+      },
+      "aspek_penilaian_3": {
+        "mahasiswa_1": "1",
+        "mahasiswa_2": "",
+        "mahasiswa_3": "",
+        "mahasiswa_4": "",
+        "mahasiswa_5": ""
+      },
+      "aspek_penilaian_4": {
+        "mahasiswa_1": "1",
+        "mahasiswa_2": "",
+        "mahasiswa_3": "",
+        "mahasiswa_4": "",
+        "mahasiswa_5": ""
+      },
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
